@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://bishal123:kdStd0VfljHzhuRF@devcommunity.sm8ai.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSceret":"bm_sceret_key1",
+    "githubClientId":"2dd7f8d38545c666d773",
+    "githubClientSceret":"f26e2fa98d575d3e1815a313995d48a83d17a9b8"
+}
